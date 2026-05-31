@@ -3,8 +3,8 @@ import env from './env';
 
 const app = {
   version: packageInfo.version,
-  name: 'BoxyHQ',
-  logoUrl: 'https://boxyhq.com/img/logo.png',
+  name: 'Hive Enterprise',
+  logoUrl: 'https://raw.githubusercontent.com/HiveCoder/hivecoder-enterprise-saas/master/public/logo.png',
   url: env.appUrl,
 };
 
